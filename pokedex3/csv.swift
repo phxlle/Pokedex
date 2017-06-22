@@ -1,6 +1,8 @@
 //
 //  CSV
-//  Modified by Mark Price on 08/14/15
+//
+//  Created by Philippe Asselbergh
+//  Copyright © 2017 Philippe Asselbergh. All rights reserved.
 //
 
 import Foundation
